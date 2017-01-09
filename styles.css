@@ -60,3 +60,16 @@ div.cartodb-tooltip.cartodb-tooltip {
   font-weight: bold;
   max-width: 240px;
 }
+
+div.cartodb-legend.category ul li {
+  text-transform: none;
+  font-size: 12px;
+}
+
+.cartodb-popup-content ul {
+  padding-left: 15px;
+}
+
+.cartodb-popup-content ul li {
+  padding-left: 0px;
+}
